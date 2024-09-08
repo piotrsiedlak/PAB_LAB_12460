@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Core\**" />
+    <EmbeddedResource Remove="Core\**" />
+    <None Remove="Core\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Core\Entities\Category.cs" />
+    <Compile Include="Core\Entities\Order.cs" />
+    <Compile Include="Core\Entities\Product.cs" />
+    <Compile Include="Core\Interfaces\IProductService.cs" />
+    <Compile Include="Core\Interfaces\IProductSoapService.cs" />
+    <Compile Include="Core\Services\ProductSoapService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="SoapCore" Version="1.1.0.49" />
+  </ItemGroup>
+
+</Project>

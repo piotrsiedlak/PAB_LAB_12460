@@ -1,0 +1,733 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B733ECF-9ECC-4E11-B0CF-8EA4E092C9D8}|script{0B733ECF-9ECC-4E11-B0CF-8EA4E092C9D8}|C:\\Users\\Jacob\\Desktop\\Zaliczenie\\testapi.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0B733ECF-9ECC-4E11-B0CF-8EA4E092C9D8}|script{0B733ECF-9ECC-4E11-B0CF-8EA4E092C9D8}|solutionrelative:testapi.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\core\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\core\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\core\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\core\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\core\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E9A47E-33C3-45DD-B92A-3187D77EB7D3}|LabTesty\\LabTesty.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labtesty\\tests\\controller\\orderscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E9A47E-33C3-45DD-B92A-3187D77EB7D3}|LabTesty\\LabTesty.csproj|solutionrelative:labtesty\\tests\\controller\\orderscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E9A47E-33C3-45DD-B92A-3187D77EB7D3}|LabTesty\\LabTesty.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labtesty\\tests\\controller\\categoriescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E9A47E-33C3-45DD-B92A-3187D77EB7D3}|LabTesty\\LabTesty.csproj|solutionrelative:labtesty\\tests\\controller\\categoriescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E9A47E-33C3-45DD-B92A-3187D77EB7D3}|LabTesty\\LabTesty.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labtesty\\tests\\controller\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E9A47E-33C3-45DD-B92A-3187D77EB7D3}|LabTesty\\LabTesty.csproj|solutionrelative:labtesty\\tests\\controller\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF87BCA-B2D6-4CAE-A965-8A253E70795A}|LabWebApi\\LabApi.csproj|solutionrelative:labwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labsoapservice\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|solutionrelative:labsoapservice\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labrazorasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E2C5610-2FBE-41B3-A849-ECB6A4ECFA79}|LabRazorAsp\\LabRazorAsp.csproj|solutionrelative:labrazorasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labsoapservice\\core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|solutionrelative:labsoapservice\\core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labsoapservice\\labsoapservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|solutionrelative:labsoapservice\\labsoapservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labsoapservice\\core\\services\\productsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|solutionrelative:labsoapservice\\core\\services\\productsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labsoapservice\\core\\interfaces\\iproductsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|solutionrelative:labsoapservice\\core\\interfaces\\iproductsoapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labsoapservice\\core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|solutionrelative:labsoapservice\\core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|c:\\users\\jacob\\desktop\\zaliczenie\\labsoapservice\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E09C6C-5A1C-44B5-8D13-FF7649C3AC55}|LabSoapService\\LabSoapService.csproj|solutionrelative:labsoapservice\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testapi.sh",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\testapi.sh",
+              "RelativeDocumentMoniker": "testapi.sh",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\testapi.sh",
+              "RelativeToolTip": "testapi.sh",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-09-08T17:23:26.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Core\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "LabWebApi\\Core\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:19:23.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Core\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "LabWebApi\\Core\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:19:33.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Core\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "LabWebApi\\Core\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:19:13.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Core\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Services\\CategoryService.cs",
+              "RelativeToolTip": "LabWebApi\\Core\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:19:58.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Core\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Services\\OrderService.cs",
+              "RelativeToolTip": "LabWebApi\\Core\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:20:49.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Core\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Services\\ProductService.cs",
+              "RelativeToolTip": "LabWebApi\\Core\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:19:45.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LabWebApi\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:15:13.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Entities\\Category.cs",
+              "RelativeToolTip": "LabWebApi\\Core\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:16:47.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "LabWebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwDIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:18:14.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "LabWebApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:25:23.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "LabWebApi\\Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:16:34.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Core\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Core\\Entities\\Order.cs",
+              "RelativeToolTip": "LabWebApi\\Core\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:16:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "LabWebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:25:38.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabTesty\\Tests\\Controller\\OrdersControllerTests.cs",
+              "RelativeDocumentMoniker": "LabTesty\\Tests\\Controller\\OrdersControllerTests.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabTesty\\Tests\\Controller\\OrdersControllerTests.cs",
+              "RelativeToolTip": "LabTesty\\Tests\\Controller\\OrdersControllerTests.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowG4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:16:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabTesty\\Tests\\Controller\\CategoriesControllerTests.cs",
+              "RelativeDocumentMoniker": "LabTesty\\Tests\\Controller\\CategoriesControllerTests.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabTesty\\Tests\\Controller\\CategoriesControllerTests.cs",
+              "RelativeToolTip": "LabTesty\\Tests\\Controller\\CategoriesControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:45:52.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabTesty\\Tests\\Controller\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "LabTesty\\Tests\\Controller\\ProductsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabTesty\\Tests\\Controller\\ProductsControllerTests.cs",
+              "RelativeToolTip": "LabTesty\\Tests\\Controller\\ProductsControllerTests.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAKBhwG8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:17:46.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "LabWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabWebApi\\Program.cs",
+              "RelativeToolTip": "LabWebApi\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBfwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:10:21.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\ProductDto.cs",
+              "RelativeDocumentMoniker": "LabSoapService\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\ProductDto.cs",
+              "RelativeToolTip": "LabSoapService\\ProductDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewBMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:33:48.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\SeedData.cs",
+              "RelativeDocumentMoniker": "LabRazorAsp\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\SeedData.cs",
+              "RelativeToolTip": "LabRazorAsp\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBfwCsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:00:03.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LabRazorAsp\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LabRazorAsp\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:57:43.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LabRazorAsp\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\ApplicationUser.cs",
+              "RelativeToolTip": "LabRazorAsp\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:57:54.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Program.cs",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Program.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Program.cs",
+              "RelativeToolTip": "LabRazorAsp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:58:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Admin\\Index.cshtml",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:01:35.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:05:12.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:02:22.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\Admin\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\Admin\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:05:31.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:03:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:04:31.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:04:59.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:04:47.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\User\\Index.cshtml",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T14:00:41.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\User\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "LabRazorAsp\\Pages\\User\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\Pages\\User\\Index.cshtml.cs",
+              "RelativeToolTip": "LabRazorAsp\\Pages\\User\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:00:47.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LabRazorAsp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LabRazorAsp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-11T13:59:56.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\appsettings.json",
+              "RelativeDocumentMoniker": "LabRazorAsp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabRazorAsp\\appsettings.json",
+              "RelativeToolTip": "LabRazorAsp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T13:58:08.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "LabSoapService\\Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Entities\\Category.cs",
+              "RelativeToolTip": "LabSoapService\\Core\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:49:57.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LabSoapService.csproj",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\LabSoapService.csproj",
+              "RelativeDocumentMoniker": "LabSoapService\\LabSoapService.csproj",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\LabSoapService.csproj",
+              "RelativeToolTip": "LabSoapService\\LabSoapService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T13:45:20.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductSoapService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Services\\ProductSoapService.cs",
+              "RelativeDocumentMoniker": "LabSoapService\\Core\\Services\\ProductSoapService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Services\\ProductSoapService.cs",
+              "RelativeToolTip": "LabSoapService\\Core\\Services\\ProductSoapService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywBoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:33:29.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProductSoapService.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Interfaces\\IProductSoapService.cs",
+              "RelativeDocumentMoniker": "LabSoapService\\Core\\Interfaces\\IProductSoapService.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Interfaces\\IProductSoapService.cs",
+              "RelativeToolTip": "LabSoapService\\Core\\Interfaces\\IProductSoapService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:33:11.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "LabSoapService\\Core\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Entities\\Order.cs",
+              "RelativeToolTip": "LabSoapService\\Core\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:49:58.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "LabSoapService\\Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Jacob\\Desktop\\Zaliczenie\\LabSoapService\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "LabSoapService\\Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:49:58.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

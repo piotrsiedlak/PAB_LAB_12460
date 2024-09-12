@@ -1,9 +1,11 @@
-﻿using LabWebApi.Core.Entities;
-using LabWebApi.Infrastructure.Repositories.Repository;
+﻿using LabApi.Core.Repositories;
+using LabWebApi.Core.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LabWebApi.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase

@@ -1,6 +1,5 @@
 ﻿using LabWebApi.Core.Entities;
 using LabWebApi.Core.Interfaces;
-using LabWebApi.Infrastructure.Repositories.Interfaces;
 
 namespace LabWebApi.Core.Services
 {
